@@ -1,0 +1,6 @@
+{
+  "name": "DockFlow - Warehouse Loading & Unloading Management",
+  "description": "Sistem monitoring loading & unloading multi-stakeholder (Admin, Security, Driver, Checker/FD) untuk project SFP, HMS, PMID, dan CLOVE dengan safety checklist foto evidence dan generator laporan WhatsApp otomatis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
